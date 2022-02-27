@@ -5,7 +5,7 @@
 <h1 align="center">Skill Academy - Basic Programming for Data Science</h1>
 
 <p align="center">
-  Repositori ini berisi tentang hasil pembelajaran saya selama mengikuti course Basic Programming for Data Science dari Skill Academy.
+  Repositori ini berisi tentang hasil pembelajaran saya selama mengikuti course <strong>Basic Programming for Data Science</strong> dari <strong>Skill Academy</strong>.
 </p>
 
 <details><summary>Certificate of Completion</summary>
