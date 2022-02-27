@@ -16,8 +16,8 @@
   
 </details>
 
-<details><summary>Certificate of Excellence</summary>
- 
+<!-- <details><summary>Certificate of Excellence</summary>
+  -->
 <!-- <p align="center">
   <a href='https://www.linkedin.com/in/farhanalaydroes/'><img src="README/Sertifikat.jpeg"></a>
 </p>  -->
