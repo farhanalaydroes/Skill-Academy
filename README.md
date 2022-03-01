@@ -8,6 +8,10 @@
   Repositori ini berisi tentang hasil pembelajaran saya selama mengikuti course <strong>Basic Programming for Data Science</strong> dari <strong>Skill Academy</strong>.
 </p>
 
+<p align="justify">
+  Source Data : Skill Academy
+</p>
+
 <details><summary>Certificate of Completion</summary>
  
 <p align="center">
