@@ -25,7 +25,7 @@
  <p align="justify">
   Library :
 </p>
-  <a href="https://plotly.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></a>  <a href="https://www.python.org/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></a>  <a href="https://plotly.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" /></a>
 
 
 
