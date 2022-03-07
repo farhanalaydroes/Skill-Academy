@@ -32,13 +32,12 @@
 
 <details><summary>Table of Contains</summary>
  
- <!--   <a>⚫️[ Table Guestbooks](https://github.com/farhanalaydroes/belajar-mysql/blob/main/guestbooks.sql) </a> -->
+  <a>⚫️[ Skill Academy SQL Data Science](https://github.com/farhanalaydroes/Skill-Academy-DS/blob/main/Skill%20Academy%20SQL%20Data%20Science.sql) </a> 
   
   <a>⚫️[ Skill Academy Python Data Science](https://github.com/farhanalaydroes/Skill-Academy-DS/blob/main/Skill%20Academy%20Python%20Data%20Science.ipynb) </a> 
   
   <a>⚫️[ Skill Academy Pyhton Datas Science part 2](https://github.com/farhanalaydroes/Skill-Academy-DS/blob/main/Skill%20Academy%20Python%20Data%20Science%20Part%202.ipynb) </a>
   
-<!--   <a>⚫️[ Table Guestbooks](https://github.com/farhanalaydroes/belajar-mysql/blob/main/guestbooks.sql) </a> -->
   
 
  </details>
