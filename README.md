@@ -23,13 +23,25 @@
 <p align="justify">
   Languages :
 </p>
-  <a href="https://www.python.org/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
+  <a href="https://www.python.org/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a> <a href="https://www.mysql.com//" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   
  <p align="justify">
   Library :
 </p>
   <a href="https://pandas.pydata.org/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></a>  <a href="https://plotly.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" /></a>
 
+<details><summary>Table of Contains</summary>
+ 
+ <!--   <a>⚫️[ Table Guestbooks](https://github.com/farhanalaydroes/belajar-mysql/blob/main/guestbooks.sql) </a> -->
+  
+  <a>⚫️[ Skill Academy Python Data Science](https://github.com/farhanalaydroes/Skill-Academy-DS/blob/main/Skill%20Academy%20Python%20Data%20Science.ipynb) </a> 
+  
+  <a>⚫️[ Skill Academy Pyhton Datas Science part 2](https://github.com/farhanalaydroes/Skill-Academy-DS/blob/main/Skill%20Academy%20Python%20Data%20Science%20Part%202.ipynb) </a>
+  
+<!--   <a>⚫️[ Table Guestbooks](https://github.com/farhanalaydroes/belajar-mysql/blob/main/guestbooks.sql) </a> -->
+  
+
+ </details>
 
 
  <details><summary>Certificate of Excellence</summary>
