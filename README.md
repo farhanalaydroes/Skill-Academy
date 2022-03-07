@@ -18,7 +18,8 @@
 <p align="justify">
   Editor :
 </p>
-  <a href="https://jupyter.org/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
+  <a href="https://jupyter.org/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" /></a>  <a href="https://code.visualstudio.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  
   
 <p align="justify">
   Languages :
